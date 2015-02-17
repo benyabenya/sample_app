@@ -32,4 +32,4 @@ group :development, :test do
 
 gem 'execjs'
 gem 'therubyracer'
-
+gem 'rb-readline'
